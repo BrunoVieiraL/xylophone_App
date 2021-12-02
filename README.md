@@ -1,6 +1,6 @@
 # marimba_app
 
-A new Flutter project.
+A virtual xylophone using AudioPlayers package.
 
 ## Getting Started
 
