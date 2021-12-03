@@ -1,6 +1,6 @@
 # marimba_app
 
-A virtual xylophone using AudioPlayers package.  Developed in Polimorfismo lessons.
+A virtual xylophone using AudioPlayers package. Project developed during the Dart and Flutter course by Polimorfismo.
 
 ## Getting Started
 
