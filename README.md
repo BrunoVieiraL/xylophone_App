@@ -1,6 +1,6 @@
 # marimba_app
 
-A virtual xylophone using AudioPlayers package.
+A virtual xylophone using AudioPlayers package.  Developed in Polimorfismo lessons.
 
 ## Getting Started
 
